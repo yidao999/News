@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="about">
+        \n这是一款Material Design风格的新闻阅读App
+        \nMVP模式，基于RxJava+Retrofit2进行开发
+        \n\napi来源于京东万象与百度。
+
+        \n\n主要用到的开源库：
+        \nRxJava、Retrofit2、Butterknife、Pullloadmorerecyclerview、PhotoView、Glide、Cardview、
+        \njiecaovideoplayer…
+
+        \n\n作者：小川
+        \n
+
+        </string>
+</resources>
